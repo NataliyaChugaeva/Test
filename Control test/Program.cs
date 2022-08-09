@@ -9,13 +9,13 @@ string[] arr1 = new string[7] {"5$", "8976", "hello", "Moscow", "1", "am", "321"
 string[] arr2 = new string[arr1.Length];
 void SecondArrayWithIF(string[] arr1, string[] arr2)
 {
-    int count = 0;
+    int num = 0;
     for (int i = 0; i < arr1.Length; i++)
     {
     if(arr1[i].Length <= 3)
         {
-        arr2[count] = arr1[i];
-        count++;
+        arr2[num] = arr1[i];
+        num++;
         }
     }
 }
