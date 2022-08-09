@@ -3,6 +3,8 @@
 // либо задать на старте выполнения алгоритма.
 
 
+Console.Clear();
+
 string[] arr1 = new string[7] {"5$", "8976", "hello", "Moscow", "1", "am", "321"};
 string[] arr2 = new string[arr1.Length];
 void SecondArrayWithIF(string[] arr1, string[] arr2)
