@@ -1,0 +1,15 @@
+C:\Users\Джон\Desktop\Test\Control test\bin\Debug\net6.0\Control test.exe
+C:\Users\Джон\Desktop\Test\Control test\bin\Debug\net6.0\Control test.deps.json
+C:\Users\Джон\Desktop\Test\Control test\bin\Debug\net6.0\Control test.runtimeconfig.json
+C:\Users\Джон\Desktop\Test\Control test\bin\Debug\net6.0\Control test.dll
+C:\Users\Джон\Desktop\Test\Control test\bin\Debug\net6.0\Control test.pdb
+C:\Users\Джон\Desktop\Test\Control test\obj\Debug\net6.0\Control test.csproj.AssemblyReference.cache
+C:\Users\Джон\Desktop\Test\Control test\obj\Debug\net6.0\Control test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Джон\Desktop\Test\Control test\obj\Debug\net6.0\Control test.AssemblyInfoInputs.cache
+C:\Users\Джон\Desktop\Test\Control test\obj\Debug\net6.0\Control test.AssemblyInfo.cs
+C:\Users\Джон\Desktop\Test\Control test\obj\Debug\net6.0\Control test.csproj.CoreCompileInputs.cache
+C:\Users\Джон\Desktop\Test\Control test\obj\Debug\net6.0\Control test.dll
+C:\Users\Джон\Desktop\Test\Control test\obj\Debug\net6.0\refint\Control test.dll
+C:\Users\Джон\Desktop\Test\Control test\obj\Debug\net6.0\Control test.pdb
+C:\Users\Джон\Desktop\Test\Control test\obj\Debug\net6.0\Control test.genruntimeconfig.cache
+C:\Users\Джон\Desktop\Test\Control test\obj\Debug\net6.0\ref\Control test.dll
